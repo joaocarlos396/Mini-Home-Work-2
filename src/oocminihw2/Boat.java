@@ -14,7 +14,6 @@ public class Boat extends Vehicle{
         this.type = type;
         this.numSails = 1;
         this.numPassengers = numPassengers;
-    
 }
 
     @Override
